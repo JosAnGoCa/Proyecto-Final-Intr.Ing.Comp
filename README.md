@@ -1,2 +1,11 @@
 # Proyecto-Final-Intr.Ing.Comp
-Proyecto final de introducción a la ingeniería en computación
+
+Introduccion a la ingenieria en computación
+
+Integrantes:
+* José Gomez
+* Bryan Ramos
+* David Gómez Vázquez
+* Daniel Hernández
+
+Grupo: 1108
