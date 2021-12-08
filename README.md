@@ -5,7 +5,7 @@ Introduccion a la ingenieria en computación
 Integrantes:
 * José Gomez
 * Bryan Ramos
-* David Gómez Vázquez
+* David Gómez
 * Daniel Hernández
 
 Grupo: 1108
