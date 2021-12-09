@@ -6,6 +6,7 @@ Integrantes:
 * Bryan Ramos
 * Daniel Hernández
 * David Gómez
+* Eduardo Salazar
 * José Gomez
 
 Grupo: 1108
