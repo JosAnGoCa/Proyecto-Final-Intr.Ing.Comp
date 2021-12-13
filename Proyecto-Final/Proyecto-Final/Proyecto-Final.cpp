@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include "~vsC731.h"
 
 int main()
 {
@@ -7,14 +8,15 @@ int main()
 
     int numero1, numero2;
 
-    printf("Primer numero: ")
+    printf("Primer numero: ");
     scanf_s("%i", numero1);
 
-    printf("Segundo numero: ")
+    printf("Segundo numero: ");
     scanf_s("%i", numero2);
 
     // David
     // Suma
+    suma(numero1, numero2);
 
     // Bryan
     // Resta
