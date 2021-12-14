@@ -1,4 +1,3 @@
-#include <stdio.h>
 int Multiplicacion(int num1, int num2)
 {
     int resultado;
