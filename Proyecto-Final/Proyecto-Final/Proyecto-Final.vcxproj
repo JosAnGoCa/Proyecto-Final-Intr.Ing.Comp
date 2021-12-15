@@ -139,7 +139,17 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="FuncionModulo.cpp" />
+    <ClCompile Include="FuncionMultiplicacion.cpp" />
+    <ClCompile Include="FuncionResta.cpp" />
+    <ClCompile Include="FuncionSuma.cpp" />
     <ClCompile Include="Proyecto-Final.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="FuncionModulo.h" />
+    <ClInclude Include="FuncionMultiplicacion.h" />
+    <ClInclude Include="FuncionResta.h" />
+    <ClInclude Include="FuncionSuma.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

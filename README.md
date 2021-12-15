@@ -7,6 +7,6 @@ Integrantes:
 * Daniel Hernández
 * David Gómez
 * Eduardo Salazar
-* José Gomez
+* José Gómez
 
 Grupo: 1108

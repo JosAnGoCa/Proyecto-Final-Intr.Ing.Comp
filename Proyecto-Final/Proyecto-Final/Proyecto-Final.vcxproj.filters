@@ -18,5 +18,31 @@
     <ClCompile Include="Proyecto-Final.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
+    <ClCompile Include="FuncionModulo.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="FuncionMultiplicacion.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="FuncionResta.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="FuncionSuma.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="FuncionModulo.h">
+      <Filter>Archivos de origen</Filter>
+    </ClInclude>
+    <ClInclude Include="FuncionMultiplicacion.h">
+      <Filter>Archivos de origen</Filter>
+    </ClInclude>
+    <ClInclude Include="FuncionResta.h">
+      <Filter>Archivos de origen</Filter>
+    </ClInclude>
+    <ClInclude Include="FuncionSuma.h">
+      <Filter>Archivos de origen</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
